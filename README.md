@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AtTheOne
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Microsoft Azure
-- 💞️ 
 - 📫 How to reach me 
 
 <!---
